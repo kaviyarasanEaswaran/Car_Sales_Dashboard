@@ -1,3 +1,5 @@
+![image](https://github.com/kaviyarasanEaswaran/Car_Sales_Dashboard/assets/129485308/abab6dc8-41de-46c8-831c-4af711661591)
+
 Background: 
 
     Our company is a car dealership that sells various car models. To effectively track and 
